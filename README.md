@@ -50,12 +50,12 @@
 
 ## 📂 Projetos em destaque
 
-| Projeto | O que faz | Tecnologia |
-|---|---|---|
-| [beauty-day-juliana](https://github.com/duartedaniel92/beauty-day-juliana) | Sistema de agendamento de serviços | TypeScript |
-| [painel-comissoes](https://github.com/duartedaniel92/painel-comissoes) | Painel de controle de comissões para equipes de vendas no varejo | JavaScript |
-| [code-club-first-project-node](https://github.com/duartedaniel92/code-club-first-project-node) | Meu primeiro projeto com Node.js | JavaScript |
-| [Batalha Naval](https://github.com/Cursos-TI/desafio-batalha-naval-duartedaniel92) · [Xadrez](https://github.com/Cursos-TI/desafio-xadrez-duartedaniel92) · [Super Trunfo](https://github.com/Cursos-TI/desafio-cadastro-das-cartas-no-super-trunfo-duartedaniel92) | Desafios de lógica de programação | C |
+| Projeto | O que faz | Tecnologia | Demo |
+|---|---|---|---|
+| [beauty-day-juliana](https://github.com/duartedaniel92/beauty-day-juliana) | Agendamento online de um salão de beleza real: a cliente escolhe serviços e horário livre, a dona aprova no painel e avisa pelo WhatsApp | Next.js, TypeScript, Supabase | [Ver no ar](https://beauty-day-juliana.vercel.app) |
+| [painel-comissoes](https://github.com/duartedaniel92/painel-comissoes) | Painel para o gerente de loja acompanhar as vendas da equipe e calcular a comissão de cada vendedor pela meta individual | React, Node.js, Express | Roda localmente (sem deploy) |
+| [code-club-first-project-node](https://github.com/duartedaniel92/code-club-first-project-node) | Meu primeiro projeto com Node.js | JavaScript | — |
+| [Batalha Naval](https://github.com/Cursos-TI/desafio-batalha-naval-duartedaniel92) · [Xadrez](https://github.com/Cursos-TI/desafio-xadrez-duartedaniel92) · [Super Trunfo](https://github.com/Cursos-TI/desafio-cadastro-das-cartas-no-super-trunfo-duartedaniel92) | Desafios de lógica de programação | C | — |
 
 ## 📊 Estatísticas
 
