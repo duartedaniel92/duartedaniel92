@@ -57,6 +57,16 @@
 | [code-club-first-project-node](https://github.com/duartedaniel92/code-club-first-project-node) | Meu primeiro projeto com Node.js | JavaScript |
 | [Batalha Naval](https://github.com/Cursos-TI/desafio-batalha-naval-duartedaniel92) · [Xadrez](https://github.com/Cursos-TI/desafio-xadrez-duartedaniel92) · [Super Trunfo](https://github.com/Cursos-TI/desafio-cadastro-das-cartas-no-super-trunfo-duartedaniel92) | Desafios de lógica de programação | C |
 
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=duartedaniel92&show_icons=true&locale=pt-br&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartedaniel92&layout=compact&locale=pt-br&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=duartedaniel92&locale=pt_BR&theme=tokyonight&hide_border=true" alt="Sequência de contribuições">
+</p>
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duartedaniel92)
